@@ -1,0 +1,2 @@
+anipy-api>=3.9,<4
+textual>=1.0
